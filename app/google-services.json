@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905305485917",
+    "project_id": "onconurse-fa8fa",
+    "storage_bucket": "onconurse-fa8fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905305485917:android:496e83efd5a56406c913b4",
+        "android_client_info": {
+          "package_name": "com.tuempresa.onconurse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1OUmAywIP7Lchcs1bIRKhflPUZ1EhQFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
